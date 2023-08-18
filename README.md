@@ -6,7 +6,7 @@
 
 ![time](https://img.shields.io/badge/time--to--complete-full--day--approx.-yellowgreen)
 
-## :link: [See it live](https://fullstack-js-bc-shopifyclone.netlify.app/)
+## :link: [See it live](https://khurramcodes-shopifyclone.netlify.app/)
 
 ## :clipboard: Learning Outcomes 
 
